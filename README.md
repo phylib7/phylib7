@@ -1,7 +1,7 @@
 # Mohammad Haris
 
-Ph.D. Candidate in Library & Information Science at Aligarh Muslim University, India.  
-Resaerch Interest: digital library recommender systems, information behaviour, machine learning, NLP, and Altmetrics.
+I am Mohammad Haris, a Ph.D. Candidate under the supervision of Prof. Naushad Ali PM. (Dept. of Library & Information Science, Aligarh Muslim University, India) and Prof. Rashid Ali (Dept. Computer Engineering, Aligarh Muslim University, India). I am working on Digital Library Recommender System, an interdisciplinary area of research. My research interests include Digital Library, Recommender System, Information Behaviour, Machine Learning, Natural Language Processing. I have engaged in international research collaboration and published Scopus-indexed research papers, presented at national and international conferences, and actively involved in professional associations such as the Indian Library Association (ILA) and ASIS&T, where I serve as Communication Officer for SIG-DL and SIG-IEP. My future research vision is to work on Green AI–based information systems. 
+
 
 <p align="left">
   <a href="mailto:mharis.research@gmail.com"><img src="https://img.shields.io/badge/Email-Personal-informational?style=flat-square&logo=gmail" alt="Personal email"></a>
@@ -10,9 +10,7 @@ Resaerch Interest: digital library recommender systems, information behaviour, m
   <img src="https://img.shields.io/badge/Focus-Recommender%20Systems-0A7EA4?style=flat-square" alt="Focus badge">
 </p>
 
-## Research Overview
 
-My doctoral research focuses on mapping information search strategies of library users and developing recommender systems using machine learning. My broader interests include digital libraries, scholarly recommendation, altmetrics, and Green AI–based information systems.
 
 ## Research Interests
 
