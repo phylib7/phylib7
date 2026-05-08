@@ -1,7 +1,7 @@
 # Mohammad Haris
 
 Ph.D. Candidate in Library & Information Science at Aligarh Muslim University, India.  
-Working on digital library recommender systems at the intersection of information behaviour, machine learning, NLP, and scholarly information systems. [1]
+Resaerch Interest: digital library recommender systems, information behaviour, machine learning, NLP, and Altmetrics.
 
 <p align="left">
   <a href="mailto:mharis.research@gmail.com"><img src="https://img.shields.io/badge/Email-Personal-informational?style=flat-square&logo=gmail" alt="Personal email"></a>
@@ -12,27 +12,27 @@ Working on digital library recommender systems at the intersection of informatio
 
 ## Research Overview
 
-My doctoral research focuses on mapping information search strategies of library users and developing recommender systems using machine learning. My broader interests include digital libraries, scholarly recommendation, altmetrics, and Green AI–based information systems. [1]
+My doctoral research focuses on mapping information search strategies of library users and developing recommender systems using machine learning. My broader interests include digital libraries, scholarly recommendation, altmetrics, and Green AI–based information systems.
 
 ## Research Interests
 
-- Digital Libraries [1]
-- Recommender Systems [1]
-- Information Behaviour [1]
-- Machine Learning [1]
-- Natural Language Processing [1]
-- Altmetrics [1]
+- Digital Libraries
+- Recommender Systems
+- Information Behaviour
+- Machine Learning
+- Natural Language Processing
+- Altmetrics
 
 ## Publications
 
-- **2025** — *Artificial intelligence in academic libraries: a survey of users’ perception and adoption*, *Global Knowledge, Memory and Communication*. [1]
-- **2023** — *Assessment of ResearchGate to Unfurl the Academic Pursuits of Physics Scholars*, *Journal of Scientometric Research*. [1]
+- **2025** — *Artificial intelligence in academic libraries: a survey of users’ perception and adoption*, *Global Knowledge, Memory and Communication*.
+- **2023** — *Assessment of ResearchGate to Unfurl the Academic Pursuits of Physics Scholars*, *Journal of Scientometric Research*.
 
 ## Recent Scholarly Presentations
 
-- *Performance of Recommender System in the Scopus Database: A User-Based Evaluation*, ICAL-2025. [1]
-- *Balancing Relevance and Diversity in Research Paper Recommendations Using Sentence Embeddings and Maximal Marginal Relevance*, 2025. [1]
-- *Citation-based Scholarly Paper Recommender System using Machine Learning*, GLS-2025. [1]
+- *Performance of Recommender System in the Scopus Database: A User-Based Evaluation*, ICAL-2025.
+- *Balancing Relevance and Diversity in Research Paper Recommendations Using Sentence Embeddings and Maximal Marginal Relevance*, 2025.
+- *Citation-based Scholarly Paper Recommender System using Machine Learning*, GLS-2025.
 
 ## Skills
 
@@ -45,26 +45,24 @@ My doctoral research focuses on mapping information search strategies of library
   <img src="https://img.shields.io/badge/KOHA-Library%20System-4E8B31?style=for-the-badge" alt="KOHA">
 </p>
 
-- Python, R, HTML [1]
-- Protégé, SPSS, Excel [1]
-- Greenstone, KOHA, LIBSYS 7, SOUL 2.0, WINISIS [1]
+- Python, R, HTML
+- Protégé, SPSS, Excel
+- Greenstone, KOHA, LIBSYS 7, SOUL 2.0, WINISIS
 
 ## Academic Service
 
-- Communication Officer, SIG-DL and SIG-IEP, ASIS&T. [1]
-- Life Member, Indian Library Association. [1]
-- Member of ALISE, FORCE11, and ISSI. [1]
+- Communication Officer, SIG-DL and SIG-IEP, ASIS&T
+- Life Member, Indian Library Association
+- Member of ALISE, FORCE11, and ISSI
 
 ## Honors
 
-- Senior Research Fellow (2023). [1]
-- UGC Junior Research Fellowship (2019). [1]
+- Senior Research Fellow (2023)
+- UGC Junior Research Fellowship (2019)
 
 ## Contact
 
-- Personal Email: `mharis.research@gmail.com` [1]
-- Institutional Email: `mharis2@myamu.ac.in` [1]
+- Personal Email: `mharis.research@gmail.com`
+- Institutional Email: `mharis2@myamu.ac.in`
 
-## Suggested repositories to pin
 
-When projects are ready, pin repositories related to digital library recommender systems, scholarly paper recommendation, diversity-aware recommendation, and experimental notebooks for information retrieval or ML workflows. [1]
