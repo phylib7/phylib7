@@ -60,7 +60,7 @@ I am Mohammad Haris, a Ph.D. Candidate under the supervision of Prof. Naushad Al
 
 ## Contact
 
-- Personal Email: `mharis.research@gmail.com`
+- Personal Email: `mharis.research@gmail.com` 'mharisk73@gmail.com'
 - Institutional Email: `mharis2@myamu.ac.in`
 
 
